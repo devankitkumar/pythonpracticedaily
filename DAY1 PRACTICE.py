@@ -1,0 +1,6 @@
+#name=input("what is person's name?" )
+#color=input("what is his favourite color?" )
+#print(name  +  " likes " + color)
+birth_year = input("Birth_Year:" )
+age= 2024 -int(birth_year)
+print(age)
